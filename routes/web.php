@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+Route::get('/', 'HomesController@home');
+Route::get('/image', 'HomesController@image');
