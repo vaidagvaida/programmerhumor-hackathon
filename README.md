@@ -18,6 +18,6 @@
 <ul>
   <li>Ensure you have the latest PHP installed on your machine</li>
   <li>Install <a href="https://getcomposer.org/download/">composer</a></li>
-  <li>Now run `composer install` to install all app dependecies</li>
+  <li>Now run `composer install` to install all app dependencies</li>
   <li>To serve the app run: `php artisan serve` and navigate to http://localhost:8000</a></li>
 </ul>
