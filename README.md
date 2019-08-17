@@ -13,3 +13,10 @@
   <li>Please include setup instructions with your project, and make sure we'll be able to run it. Projects that we won't be able to test won't be counted.</li>
   <li>For more details, please visit our <a href="https://www.programmerhumor.org/Hackathon">website</a></li>
 </ul>
+
+<h3>Getting Started..</h3>
+<ul>
+  <li>Ensure you have the latest PHP installed on your machine</li>
+  <li>Install <a href="https://getcomposer.org/download/">composer</a></li>
+  <li>To serve the app run: `php artisan serve`</a></li>
+</ul>
